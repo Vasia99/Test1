@@ -9,4 +9,4 @@ var sum=require('./operation.js');
 //var res1= sum.test;
 //res1.sum();
 //console.log(res);
-console.log(module);
+console.log( module );
